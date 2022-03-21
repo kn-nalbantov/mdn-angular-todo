@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'mdn-angular-todo';
+  title = 'todo app';
+  purpose = 'Following mdn excercise to learn Angular';
 }
